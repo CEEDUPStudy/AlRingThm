@@ -1,4 +1,4 @@
-// 2024
+// 2024 KB, 0 ms
 
 #include <iostream>
 #include <queue>
